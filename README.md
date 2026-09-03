@@ -67,3 +67,39 @@ The final analysis focused on two areas that provided meaningful, business-relev
 ### Analytical Note
 
 The analysis identifies observed relationships in the dataset. These relationships should not be interpreted as evidence that a particular customer characteristic or behavior causes churn.
+
+## Key Findings & Business Recommendations
+
+### Finding 1: Overall Churn
+
+The overall observed churn rate was **18.53%** across 28,382 customers.
+
+This provides a baseline for evaluating differences in churn across customer segments and activity patterns.
+
+### Finding 2: Churn by Age Group
+
+Customers ages **25–44** had the highest observed churn rate at **19.66%**, followed by customers ages **45–64** at **19.00%**.
+
+Customers under 25 had an observed churn rate of **16.72%**, while customers ages 65+ had the lowest rate at **15.85%**.
+
+The higher observed churn among customers ages 25–44 warrants additional investigation to better understand the factors contributing to this pattern.
+
+### Finding 3: Changes in Debit Activity
+
+Customers with a **large decrease in monthly debit activity of more than 50%** had an observed churn rate of **23.32%**.
+
+By comparison, customers with **no decrease or increased debit activity** had an observed churn rate of **16.39%**.
+
+This represents the strongest business-relevant pattern identified in the analysis.
+
+### Business Recommendation
+
+Significant declines in debit activity could be considered a potential early-warning indicator of customer disengagement.
+
+The bank could investigate this customer segment further and test targeted engagement strategies to determine whether proactive intervention improves retention.
+
+### Limitation
+
+The analysis identifies observed relationships in the dataset and does not establish causation.
+
+Additional data, such as transaction frequency, product usage, customer interactions, account closure information, and reasons for leaving, would be needed to better understand the drivers of churn.
