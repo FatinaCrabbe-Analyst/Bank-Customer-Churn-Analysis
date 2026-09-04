@@ -103,3 +103,9 @@ The bank could investigate this customer segment further and test targeted engag
 The analysis identifies observed relationships in the dataset and does not establish causation.
 
 Additional data, such as transaction frequency, product usage, customer interactions, account closure information, and reasons for leaving, would be needed to better understand the drivers of churn.
+
+## Interactive Dashboard
+
+View the interactive Tableau dashboard:
+
+[Bank Customer Churn Dashboard](https://public.tableau.com/app/profile/fatina.crabbe/viz/BankCustomerChurnAnalysis_17882275139180/BankCustomerChurnDashboard)
